@@ -1,5 +1,5 @@
 # Docker-React-Bootstrap
-<p>เป็นการพัฒนา React บน Docker<p>
+<h3>เป็นการพัฒนา React + Bootstrap บน Docker<h3>
 <p>ขั้นตอน</p>
 <p>ทำการติดตั้ง Docker บนเครื่องของคุณ<p>
 <p><a href="https://docs.docker.com/docker-for-windows/install/" target="_bank">Install Docker for Windows</a><p>
