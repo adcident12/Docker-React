@@ -16,8 +16,8 @@
 <p>ใช้คำสั่ง ตามลำดับ</p>
 <p>1.<code>docker-compose build</code></p>
 <p>2.<code>docker-compose up -d</code></p>
-<p>สามรถเข้าทดสอบได้ที่</p>
+<p>สามารถเข้าทดสอบได้ที่</p>
 <p><a href="http://localhost:3011/">http://localhost:3011/</a></p>
-<p></p>
+<p><a href="https://deploy-react-example-7f9a5.firebaseapp.com/">ตัวอย่างเมือเข้าสำเร็จ</a></p>
 <p></p>
 <p></p>
