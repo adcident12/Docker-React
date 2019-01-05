@@ -16,7 +16,6 @@
 <p>ใช้คำสั่ง ตามลำดับ</p>
 <p>1.<code>docker-compose build</code></p>
 <p>2.<code>docker-compose up -d</code></p>
-<p><img src="https://user-images.githubusercontent.com/21277486/50727050-d37c4e00-1147-11e9-9efb-1622d4e32928.png" /></p>
 <p>สามารถเข้าทดสอบได้ที่</p>
 <p><a href="http://localhost:3011/">http://localhost:3011/</a></p>
 <p><a href="https://deploy-react-example-7f9a5.firebaseapp.com/">ตัวอย่างเมื่อเข้าสำเร็จ</a></p>
