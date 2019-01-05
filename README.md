@@ -16,7 +16,7 @@
 <p>ใช้คำสั่ง ตามลำดับ</p>
 <p>1.<code>docker-compose build</code></p>
 <p>2.<code>docker-compose up -d</code></p>
-<p></p>
+<p>สามรถเข้าทดสอบได้ที่ <code>http://localhost:3011/</code></p>
 <p></p>
 <p></p>
 <p></p>
